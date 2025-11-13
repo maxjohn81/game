@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <section className="bg-[url('assets/game.jpg')] backdrop-blur-2xl bg-cover bg-center w-full h-screen">
-        <div className="w-ful mx-auto px-5 md:px-10 lg:px-13 h-screen fixed top-0 left-0 backdrop-blur-[1px] gap-5 flex justify-between flex-wrap items-center">
+        <div className="w-ful max-w-[1500px] mx-auto px-5 md:px-10 lg:px-13 h-screen backdrop-blur-[1px] gap-5 flex justify-between flex-wrap items-center">
           <div>
             <img src="assets/img.png" alt="alt" />
           </div>
